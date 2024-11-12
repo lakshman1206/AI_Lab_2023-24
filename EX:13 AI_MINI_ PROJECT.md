@@ -66,10 +66,11 @@ cv2.destroyAllWindows()
 ```
 
 ### Output:
-Eyes opened
+#### Eyes opened
+![Picture1](https://github.com/user-attachments/assets/36cd1d5f-451d-4943-bddb-64abc502787b)
 
-
-Eyes closed
+#### Eyes closed
+![Picture2](https://github.com/user-attachments/assets/3b48e6fd-8a11-48b5-99e6-ef482a33a8bf)
 
 
 ### Result:
